@@ -10,7 +10,7 @@
 * Create AuthContext
 * set AuthContext.Provider
 * set the children
-
+* export AuthContext to be used inside useContext hook
 
 
 
