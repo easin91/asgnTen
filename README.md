@@ -1,7 +1,7 @@
 # **Working procdures step by step**
 
 * create firebase project
-
+* enable web
 
 
 
