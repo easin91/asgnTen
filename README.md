@@ -6,7 +6,7 @@
 * install firebase
 * get firebase config in your firebase.config.js file
 * export app from firebase.config.js
-*
+* Create UserContext (Auth Context)
 
 
 
