@@ -5,8 +5,8 @@
 * enable sign in method
 * install firebase
 * get firebase config in your firebase.config.js file
-
-
+* export app from firebase.config.js
+*
 
 
 
