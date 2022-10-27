@@ -2,6 +2,7 @@
 
 * create firebase project
 * enable web
+* enable sign in method
 
 
 
