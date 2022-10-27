@@ -4,7 +4,7 @@
 * enable web
 * enable sign in method
 * install firebase
-
+* get firebase config in your firebase.config.js file
 
 
 
