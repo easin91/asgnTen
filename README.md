@@ -8,7 +8,7 @@
 * export app from firebase.config.js
 * Create UserContext (Auth Context)
 * Create AuthContext
-
+* set AuthContext.Provider
 
 
 
