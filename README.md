@@ -9,6 +9,7 @@
 * Create UserContext (Auth Context)
 * Create AuthContext
 * set AuthContext.Provider
+* set the children
 
 
 
