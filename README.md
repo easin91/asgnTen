@@ -15,7 +15,7 @@ ___
 * set the children
 * export AuthContext to be used inside useContext hook
 ___
-* Server Side repo link : [https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-easin91](https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-easin91)
+* Server Side repo link : [https://github.com/easin91/asgnTenServer](https://github.com/easin91/asgnTenServer)
 ___
 ___
 
