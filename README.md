@@ -14,9 +14,17 @@ ___
 * set AuthContext.Provider
 * set the children
 * export AuthContext to be used inside useContext hook
+___
+* Server Side repo link : [https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-easin91](https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-easin91)
+___
+___
+
+Live Link : [https://asgn-client.web.app](https://asgn-client.web.app)
+
+___
 
 
-
+___
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
